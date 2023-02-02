@@ -1,0 +1,65 @@
+body {
+    background-image: url(img/fondo\ stardew.jpg);
+    align-items: center;
+    
+    
+  }
+div.encabezado{
+    border: 3px solid #FD8A4F; ;
+}
+h1.encabezado{
+
+    color: azure;
+    text-align: center;
+}
+h1.titulo{
+    margin: 13px 0 0 0;
+    position: relative; 
+}
+
+div.principal{
+    background-color: #e0ffffa1;
+    opacity: 0.8;
+    margin: auto;
+    margin-top: 25px;
+    font-weight: bold;
+    border: 3px solid #FD8A4F;
+    align-items: center;
+    
+}
+div.card{
+    margin-top: 45px;
+    opacity: 1;
+    border: 3px solid #FD8A4F;
+}
+div.tabla{
+    background-color: #e0ffffa1;
+    opacity: 0.8;
+    margin: auto;
+    margin-top: 25px;
+    font-weight: bold;
+    border: 3px solid #FD8A4F;
+}
+
+.input{
+    border-radius: 10px;
+    background-color: #abf5f5;
+    width: 4rem;
+}
+
+.boton{
+    border-radius: 10px;
+    background-color: #abf5f5;
+}
+
+
+
+
+
+
+/* 
+nombre
+domicilio
+edad
+estatura
+*/
